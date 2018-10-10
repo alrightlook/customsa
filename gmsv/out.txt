@@ -1,0 +1,225 @@
+This Program is compiled at Oct  9 2018 22:16:34 by gcc 4.8.4
+
+开始获取信号..
+SIGINT:2
+SIGQUIT:3
+SIGKILL:9
+SIGSEGV:11
+SIGPIPE:13
+SIGTERM:15
+sizeof(aho) = 9264
+sizeof(aho.data) = 504
+sizeof(aho.string) = 512
+sizeof(aho.flg) = 3
+sizeof(aho.indexOfExistItems) = 80
+sizeof(aho.haveSkill) = 60
+sizeof(aho.indexOfHaveTitle) = 120
+sizeof(aho.addressBook) = 5760
+sizeof(aho.workint) = 800
+sizeof(aho.workchar) = 448
+配置文件: config/setup.cf
+调试等级: 3
+运行等级: 0
+接收缓冲: 65536
+发送缓冲: 65536
+接收缓冲下限: 128
+内存单元大小: 512
+内存单元数量: 2500000
+账号服务器地址: 127.0.0.1
+账号服务器端口: 9300
+登陆服务器名称: StoneAge
+登陆服务器密码: test
+等待连接端口: 9065
+服务端序列号: 1
+重复地址使用: 1
+最大在线人数: 1000
+最大在线宠数: 100
+最大其他数目: 10000
+最大对象数目: 12000
+最大物品数目: 10000
+最大战斗数目: 100
+顶层文件目录: .
+地图文件目录: ./config/data/map
+地图标识文件: ./config/data/map/mapset.txt
+物品配置文件: ./config/data/itemset.txt
+不可战斗文件: ./config/data/inv.txt
+显示位置文件: ./config/data/appear.txt
+头衔名称文件: ./config/data/titlename.txt
+头衔配置文件: config/data/titleconfig.txt
+遇敌坐标文件: config/data/encount.txt
+遇敌组群文件: config/data/group1.txt
+宠物基本文件: config/data/enemybase.txt
+创建宠物文件: config/data/enemy.txt
+精灵魔法文件: config/data/magic.txt
+攻击魔法文件: config/data/attmagic.bin
+宠物技能文件: config/data/petskill.txt
+物品成份文件: config/data/itematom.txt
+猜迷问题文件: ./config/data/question.txt
+G M 配置文件: config/data/gmset.txt
+日志记录文件: ./
+还原资料目录: ../saac/char
+NPC 配置目录: ./config/data/npc
+日志记载文件: log
+日志配置文件: config/log.cf
+GM的指命密码: gm
+使用GM的权限: 1
+NPC 模板数目: 256
+NPC 最大数目: 8192
+走路时间间隔: 2500
+清除所有间隔: 2500
+清除目标间隔: 2500
+执行一次时间: 5
+宠物清除时间: 1800
+道具清除时间: 1800
+石器清除时间: 3600
+数据保存间隔: 86400
+名片最大数目: 1000
+读取频率协议: 3000
+连接错误上限: 100
+出生人物转数: 0转
+出生人物等级: 1级
+出生人物金钱: 1000000 S
+出生宠物等级: 1级
+出生拥有点数: 100点
+出生能骑等级: 200
+出生拥有宠物: NO1:-1 NO2:101152 NO3:20004 NO4:-1 NO5:-1
+出生拥有物品: ITEM1:-1 ITEM2:-1 ITEM3:-1 ITEM4:-1 ITEM5:-1
+　　　　　　　ITEM1:-1 ITEM2:-1 ITEM3:-1 ITEM4:-1 ITEM5:-1
+　　　　　　　ITEM1:-1 ITEM2:-1 ITEM3:-1 ITEM4:-1 ITEM5:-1
+禁止人物名称: 名字1:极度无聊 名字2: 名字3: 名字4: 名字5:
+禁止传送地图: 地图1:32021 地图2:8213 地图3:850 地图4:30695 地图5:60034
+              地图1:-1 地图2:-1 地图3:-1 地图4:-1 地图5:-1
+人物等级转数: 5级
+宠物等级转数: -1级
+禁止点数上限: 否
+每转点数上限: 0转:15 1转:15 2转:15 3转:15 4转:15 5转:15 6转:15
+宠物能否捡获: 是
+一般等级上限: 140级
+最高等级上限: 160级
+恶魔时间倍数: 0倍
+喇叭消耗点数: 1点
+顺移消耗点数: 1点
+战斗获得金钱: 10%
+精灵召唤时间: (5000人/在线人数)分
+精灵召唤人数: 10人
+2.0 骑宠模式: 1
+庄园互抢模式: 是
+
+游戏服务器ID: StoneAge
+开始初始化
+建立内存空间...内存已分配 1220.70 MB...完成
+始终化连接空间...预约 1000 接连...分配 1254.78 MB 空间...完成
+尝试绑定本地端口 9065... 完成
+建立对象...分配 3.39 MB MB 空间...完成
+建立人物...分配 98.07 MB 空间...完成
+建立物品...物品最大ID 20902...ITEM_tbl分配 29.50 MB 空间...ITEM_idx分配 0.16 MB 空间...第二次分配 18.77 MB 空间...完成
+建立战斗...分配 0.88 MB 空间...完成
+建立功能模块...完成
+初始化邮件...完成
+读取不可战斗文件...资料范围问题: 2...有效不可战斗有效数是 0...完成
+读取显示位置文件...有效显示位置范围数是 33..完成
+读取头衔名称文件...有效头衔名称数是 2...完成
+读取头衔配置文件...有效头衔配置数是 1...完成
+读取遇敌坐标文件...有效的遇敌坐标数是 1052..完成
+读取宠物基本文件...有效宠物基本状态数是 1090...完成
+读取创建宠物文件...有效宠物数是 2192..完成
+读取遇敌组群文件...有效遇敌组群数是 1242...完成
+读取魔法文件...有效魔法:181 最大魔法:422 ...有效魔法数是 423...完成
+读取魔法攻击文件...有效的攻击魔法数 27
+魔法攻击文件 -->config/data/attmagic.bin...完成
+读取宠物技能文件...有效宠物技能数是 652...完成
+读取物品成份文件...初始化物品成份: 总数 83 
+初始化物品成份: 读取 83 物品成份...完成
+初始化料理合成物品... 缓冲数:20903 分配 1.20 MB 空间...完成
+初始料理合成随机设定...完成
+读取猜迷问题文件...完成
+读取GM配置文件...完成
+读取自定义骑宠文件...完成
+读取庄园族长专用骑宠文件...完成
+读取融合宠配置文件...无法打开文件
+...失败
+完成
+建立地图...找到 1259 地图
+正确地图文件 1259...完成
+读取NPC文件...搜索到文件 = 3266
+读取文件模块数组错误....正确模块 157 ...
+开启大小:700. 创建数量:8192.
+读取NPC创建文件...正确创建NPC 7513 ...完成
+初始化 NPC 服务器... 完成
+尝试连接账号服务器... 完成
+初始化 NPC 客户端 ... 完成
+向账号服务器发送登陆请求... 完成
+初始化已完成
+开始记始日志
+读取队伍解散物品消失文件...
+道具编号:2171
+装载宠物对话文件:./config/data/npc/pettalk/pettalk.menu..........最大ID=7...载入总数=7
+加载赌博物品文件 config/data/gambleitems.txt ...最大ID: 24 
+加载宠物技能编码文件:config/data/skillcode.txt...完成
+初始化NPC...完成
+初始化signal1...完成
+初始化signal2...完成
+初始化地图传送点...完成
+初始化 5061 地图传送点...完成
+与AC服务器连接成功！
+初始化家族...完成
+ok!
+RECEIVED - 71
+SENDING - 72 ;vtG;rrLYWr
+RECEIVED - 79
+SENDING - 80 ;zV1r2ZzczZpyw8;;rrLWWr
+RECEIVED - 73
+
+ Jerry vital : 10, str: 5, tgh : 5, dex：0Get New Hand ItemSENDING - 74 ;zV1r2ZzczZpyw8;;rrLWWr
+RECEIVED - 77
+SENDING - 78 ;zV1r2ZzczZpyw8;;rrLWWr
+SENDING - 46 ;DFDfFcAfzAW{27DfxnYjvID;rrbUWr
+SENDING - 46 ;QFDyKEAf}AW{}7DM6YYQtwXMDFbK6VDyF{EM6JW{}tnN6sYjtwnNDFbJ6FDfF{EM6BW{{tXMwTYQtADMPKWJ6FDfF{EM6}lhAGDMwDsQtADMDVHcww1fJMwM{wa{;rrbBWr
+SENDING - 46 ;JxHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf;rrrrWr
+SENDING - 46 ;TxHyR}Ef6xa{A8;rrLWWr
+SENDING - 46 ;EhjfNgAfxUGh77TO0foRx;rrrUWr
+SENDING - 46 ;;rrrYWr
+SENDING - 46 ;GxHfR3PM6BW{{;rrLWWr
+SENDING - 46 ;LBDyG{UMwA0h3BDfzXYjwEDfDFLJ6BDyH{UM6ZW{1tXN6s2R3BDfHVHc0ADyF{kN6FW{{tnzaaBtLrdw3HLc;rr5JWr
+SENDING - 46 ;XBDyG{UM6ZW{7T4u1Gs1lO5oMr8r1znfRJAf}wKCEMd86IhuwO4tTkh56xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}E;rrrHWr
+SENDING - 46 ;LFDyF{E;rrbXWr
+SENDING - 46 ;;rrrYWr
+SENDING - 46 ;LJDyF{E;rrbXWr
+SENDING - 46 ;;rrrYWr
+SENDING - 46 ;LNDyF{E;rrbXWr
+SENDING - 46 ;;rrrYWr
+SENDING - 46 ;LRDyF{E;rrbXWr
+SENDING - 46 ;;rrrYWr
+SENDING - 55 ;rrrYWr;rrbYWr;rrbYWr
+SENDING - 49 ;rrrYWr;rrrYWr
+SENDING - 37 ;orLdWr;rrLYWr;rrbWWr;rrbRWr;rrrPWr;GortWr;qpbdWr;WpbmWr;IjPEM0oq0uyCIQb3zlfzPzleD;qr5tUr
+SENDING - 41 ;xwnfOcBfxUW{0FDf}DsQtADMDVHcxwHfRRANyMWiAuXM6YYjtwHfPWH;rrbOWr
+SENDING - 41 ;zEDylVBfxIW{}JDf}DsQzAjMEFbJ6BDyq1os1q98AuXM6YYjtwHfPWHIyIDygJAfxUW{}JDf}DsQzEjMIFbJ6BDyq5ot1agD3vL}xFcjuwXMPWHc6xHfBIgM6p4yACjN6Y2R3ZDfEtHJ}QDyG{EM6RuO1PKvSqg}wivy3HLcxwXfRFAf6xahwBzM6sbR3FjNPaXL6ZDyGEAM0IW{}tHM6EA2UXewHcRywaOyRJAfxwahAuHfwD1Q0wneIGbJ2wnfH{kN6F0i0BDM6YYjtwHyLoAq6qqAQbIx{WRBovHfxDsQ3BDfPGLJsIjfRZTT6FWjAGDN6sYjuYDMJpHcxwHfR}o{XXxDgAc5Uagj3FDfEFLJ6xHyF{fMywapRuXM2D6QzwnNPanKwEzgRJAfwwaCpc7{ASzxB1s6dggwoyHyG{UM6BW{AuHMsb2Q3V0QPaHL6NDfRdAfxYWh}ZDfxDcQ3xr{qsyx2DNHR}UM6FW{{tHf6UY;qr56Wr
+SENDING - 30 ;6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6Ecj3xHfPGLc6xHyR}Ef6xa{AuHf6U;pr5NWr
+SENDING - 66 ;rrrRWr;rrbYWr;sssZX;sssZX;;rr5SWr
+SENDING - 42 ;ykjkRJQN6J0hA8Df};rrbVWr
+RECEIVED - 96
+RECEIVED - 96
+RECEIVED - 96
+RECEIVED - 96
+RECEIVED - 96
+RECEIVED - 48
+SENDING - 49 ;erbQWr;erbQWr
+RECEIVED - 48
+SENDING - 49 ;erbQWr;erbQWr
+RECEIVED - 114
+SENDING - 115 ;rrbYWr;rrbYWr;rrLYWr
+RECEIVED - 67
+SENDING - 101 ;rrrYWr;rrrYWr
+退出账号=666 
+
+=========以下是服务器出错原因=========
+标准信息: 2
+在线人数: 0
+最高在线: 0
+SAAC函数: DBGetEntryString
+=========以上是服务器出错原因=========
+
+保存运行中的数据AC缓冲 = 1048576
+关闭SAAC连接:0
+关闭绑定端口:0
